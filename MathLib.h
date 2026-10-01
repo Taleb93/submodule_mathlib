@@ -1,0 +1,13 @@
+#pragma once
+
+// Einfache Klasse fuer Grundrechenarten
+class Calculator {
+public:
+    int add(int a, int b) {
+        return a + b;
+    }
+
+    int subtract(int a, int b) {
+        return a - b;
+    }
+};
