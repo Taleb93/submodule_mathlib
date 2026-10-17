@@ -3,7 +3,7 @@
 // Einfache Klasse fuer Grundrechenarten
 class Calculator {
 public:
-    int add(int a, int b) {
+    int add(int a, int b) { // adding tow numbers
         return a + b;
     }
 
